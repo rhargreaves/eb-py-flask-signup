@@ -1,10 +1,4 @@
-*.pyc
-application.config
-development.config
-.elasticbeanstalk/
-release/
-.idea/
-Dockerrun.local.json
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
